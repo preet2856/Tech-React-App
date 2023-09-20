@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Tech-React-App/static/css/main.fd6f81fa.css",
+    "main.js": "/Tech-React-App/static/js/main.98e248a5.js",
+    "static/media/faq-img1.png": "/Tech-React-App/static/media/faq-img1.e4f883d92e4b1ae7fc9e.png",
+    "static/media/blog-6.jpg": "/Tech-React-App/static/media/blog-6.80a91f4e7aa102ce028c.jpg",
+    "static/media/blog-2.jpg": "/Tech-React-App/static/media/blog-2.cfad0ff07995d9a8aeff.jpg",
+    "static/media/blog-4.jpg": "/Tech-React-App/static/media/blog-4.d96c917f26c898f0e623.jpg",
+    "static/media/blog-5.jpg": "/Tech-React-App/static/media/blog-5.5339c978d83cdc1dc5ea.jpg",
+    "static/media/blog-1.jpg": "/Tech-React-App/static/media/blog-1.f3edb05b32e5aea665a9.jpg",
+    "static/media/blog-3.jpg": "/Tech-React-App/static/media/blog-3.c5e9b440e9f61e1d195a.jpg",
+    "index.html": "/Tech-React-App/index.html",
+    "main.fd6f81fa.css.map": "/Tech-React-App/static/css/main.fd6f81fa.css.map",
+    "main.98e248a5.js.map": "/Tech-React-App/static/js/main.98e248a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd6f81fa.css",
+    "static/js/main.98e248a5.js"
+  ]
+}
